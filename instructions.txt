@@ -1,0 +1,24 @@
+Voice is an intelligent issue reporting and tracking system that empowers users to effortlessly 
+raise concerns via voice input through a mobile app. Administrators can efficiently manage and 
+resolve these issues using a powerful web dashboard. Powered by advanced AI, Voice offers smart 
+classification and actionable insights, streamlining problem resolution and enhancing communication.
+
+Website link:
+https://voice-taupe.vercel.app
+
+Backend link:
+https://voice-backend-two.vercel.app
+
+#Admin Credentials
+heisenberg123@gmail.com
+Heisenberg@123
+tyler123@gmail.com
+Tyler@123
+
+#Admin Credentials
+jesse123@gmail.com
+Jesse@123
+jack123@gmail.com
+Jack@123
+travis123@gmail.com
+Travis@123
